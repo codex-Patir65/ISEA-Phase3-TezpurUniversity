@@ -88,7 +88,10 @@ mininet> pingall
 
 | Login Window | Successful Connection |
 |---|---|
-| ![Login window](screenshots/login_window.png) | ![Two clients connected](screenshots/two_clients_connected.png) |
+| ![Login window]
+<img width="566" height="451" alt="login_window" src="https://github.com/user-attachments/assets/840647fe-3b11-4987-8c63-92866b7f28d5" />
+
+| ![Two clients connected](screenshots/two_clients_connected.png) |
 
 | Broadcast Messaging | Private Messaging |
 |---|---|
