@@ -1,0 +1,32 @@
+Timestamp,Sender,Receiver,Message Type,Message
+2026-07-10 22:26:13,prasanta,All,Broadcast,hllw
+2026-07-10 22:26:21,prasanta,All,Broadcast,hllw
+2026-07-10 22:26:38,Pompi,All,Broadcast,hi
+2026-07-10 22:27:27,Pompi,All,Broadcast,hw r u
+2026-07-10 22:27:40,prasanta,All,Broadcast,find
+2026-07-10 22:27:48,prasanta,All,Broadcast,wht abt u
+2026-07-10 22:28:04,Pompi,All,Broadcast,jst as alws
+2026-07-10 22:28:20,prasanta,All,Broadcast,hw abt ur parents
+2026-07-10 22:28:30,Pompi,All,Broadcast,jst fine
+2026-07-10 22:28:57,Pompi,All,Broadcast,they are fine as u meet last time
+2026-07-10 22:29:05,prasanta,All,Broadcast,okk
+2026-07-10 22:29:14,prasanta,All,Broadcast,wht abt u
+2026-07-10 22:29:46,Pompi,All,Broadcast,jst enjoying my vacations
+2026-07-10 22:29:59,prasanta,All,Broadcast,okk
+2026-07-10 22:30:09,prasanta,All,Broadcast,whre r u
+2026-07-10 22:30:20,Pompi,All,Broadcast,homm
+2026-07-10 22:34:02,Pompi,All,Broadcast,hw r u james
+2026-07-10 22:35:29,james,All,Broadcast,find wht about u
+2026-07-10 22:35:37,Pompi,All,Broadcast,fine
+2026-07-10 22:36:53,james,Pompi,Private,hey r u talking to boss nowadays
+2026-07-10 22:37:18,Pompi,james,Private,yeah sometimes
+2026-07-10 22:38:13,prasanta,Pompi,Private,hey is james is there in this grp
+2026-07-10 22:38:36,prasanta,Pompi,Private,thn i am leaving
+2026-07-10 22:38:46,prasanta,All,Broadcast,okk bye james
+2026-07-10 22:38:52,james,All,Broadcast,okk bye
+2026-07-10 22:39:09,Pompi,All,Broadcast,bye prasanta
+2026-07-11 13:11:15,Patir,All,Broadcast,hllo
+2026-07-11 13:11:44,Boss,All,Broadcast,hiii
+2026-07-11 13:17:41,Patri,All,Broadcast,hllw boss
+2026-07-11 13:17:52,Boss,All,Broadcast,hi patri
+2026-07-11 13:20:57,Patri,Boss,Private,sir how are u
