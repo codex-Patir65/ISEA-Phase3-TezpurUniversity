@@ -19,7 +19,7 @@ Convert the terminal-based TCP chat application from Assignment 5 into a graphic
 - Private messaging via `/msg <username> <message>`
 - Join/leave notifications broadcast to all clients
 - Background thread for receiving messages, keeping the GUI responsive at all times
-- Server-side chat history and performance logging to CSV (`chat_history.csv`, `performance_results.csv`)
+- Server-side chat history to CSV (`chat_history.csv`)
 
 ## Software Requirements
 
