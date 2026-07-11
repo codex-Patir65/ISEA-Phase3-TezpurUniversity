@@ -55,7 +55,8 @@ mininet> net
 mininet> pingall
 ```
 
-![Network topology setup](screenshots/network_setup.png)
+![Network topology setup]
+<img width="1224" height="764" alt="network_setup" src="https://github.com/user-attachments/assets/5b5858f2-b390-4616-bd76-1aea670e7fbc" />
 
 ## Execution Steps
 
@@ -91,15 +92,23 @@ mininet> pingall
 | ![Login window]
 <img width="566" height="451" alt="login_window" src="https://github.com/user-attachments/assets/840647fe-3b11-4987-8c63-92866b7f28d5" />
 
-| ![Two clients connected](screenshots/two_clients_connected.png) |
+| ![Two clients connected]
+<img width="901" height="602" alt="two_clients_connected" src="https://github.com/user-attachments/assets/5f54899c-cefb-47b5-a639-fef97aea1e28" />
 
 | Broadcast Messaging | Private Messaging |
 |---|---|
-| ![Broadcast chat](screenshots/GUI_broadcast_chat.png) | ![Private message](screenshots/GUI_private_message.png) |
+| ![Broadcast chat]
+<img width="1214" height="659" alt="GUI_broadcast_chat" src="https://github.com/user-attachments/assets/cf6040bc-26a1-4673-acd4-31b0dd8f518f" />
+
+| ![Private message]
+<img width="1031" height="596" alt="GUI_private_message" src="https://github.com/user-attachments/assets/64cbda8d-aaad-4154-9364-0d19d3957296" />
+
 
 | User Disconnecting |
 |---|
-| ![User disconnected](screenshots/GUI_user_disconnected.png) |
+| ![User disconnected]
+
+<img width="804" height="620" alt="GUI_user_disconnected" src="https://github.com/user-attachments/assets/385e7e7d-c8d0-4e37-b3b4-c60b5a7c9c4f" />
 
 Wireshark packet captures (`tcp.port == 5000`) for client connection, broadcast messaging, private messaging, and client disconnection are included under `screenshots/` and explained in `report.pdf`.
 
