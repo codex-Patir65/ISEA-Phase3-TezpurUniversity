@@ -1,0 +1,28 @@
+{
+    "server": {
+        "host": "0.0.0.0",
+        "port": 5000,
+        "listen_backlog": 50,
+        "recv_buffer_size": 1024,
+        "thread_pool_size": 50,
+        "heartbeat_timeout_seconds": 15,
+        "max_missed_heartbeats": 3,
+        "max_failed_login_attempts": 5,
+        "login_block_seconds": 60
+    },
+    "client": {
+        "default_server_ip": "10.0.0.1",
+        "server_port": 5000,
+        "connect_timeout_seconds": 5,
+        "reconnect_attempts": 5,
+        "reconnect_delay_seconds": 3,
+        "reconnect_backoff_multiplier": 1.5
+    },
+    "files": {
+        "chat_history": "chat_history.csv",
+        "performance_results": "performance_results.csv",
+        "security_log": "security_log.txt",
+        "server_log": "server.log",
+        "users_file": "users.csv"
+    }
+}

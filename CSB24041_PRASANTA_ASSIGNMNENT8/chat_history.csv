@@ -1,0 +1,17 @@
+Timestamp,Sender,Receiver,Message Type,Message
+2026-07-21 23:29:23,James,All,Broadcast,hello everone
+2026-07-21 23:29:34,Patir,All,Broadcast,hi bro
+2026-07-21 23:29:47,Kuli,All,Broadcast,what i f
+2026-07-21 23:29:58,Rahul,All,Broadcast,good mrng
+2026-07-21 23:30:08,Riya,All,Broadcast,hii
+2026-07-21 23:30:17,Alice,All,Broadcast,hw r u
+2026-07-21 23:30:25,Bob,All,Broadcast,fine
+2026-07-21 23:30:42,Bob,James,Private,how r u doing
+2026-07-21 23:32:44,James,Bob,Private,jst fine
+2026-07-21 23:32:53,James,Bob,Private,hw wbt u
+2026-07-21 23:44:38,Patir,All,Broadcast,hllw bro
+2026-07-21 23:44:44,James,All,Broadcast,hi bro
+2026-07-21 23:46:08,James,Patir,Private,hw r u bro
+2026-07-22 19:29:02,James,All,Broadcast,hi
+2026-07-22 19:29:43,James,All,Broadcast,hlw
+2026-07-22 19:29:50,Patir,All,Broadcast,hi

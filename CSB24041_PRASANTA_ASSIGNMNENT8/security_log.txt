@@ -1,0 +1,29 @@
+2026-07-21 22:29:01.569853 : Failed login: James (10.0.0.2)
+2026-07-21 23:09:10.409992 : Failed login: Patir (10.0.0.2)
+2026-07-21 23:09:13.039986 : Failed login: Patir (10.0.0.2)
+2026-07-21 23:18:58.866400 : Successful login: James
+2026-07-21 23:19:26.585892 : Successful login: Patir
+2026-07-21 23:21:14.168074 : Successful login: James
+2026-07-21 23:21:43.423266 : Successful login: Patir
+2026-07-21 23:24:34.154140 : Successful login: Kuli
+2026-07-21 23:24:56.159850 : Successful login: Rahul
+2026-07-21 23:25:29.216320 : Successful login: Riya
+2026-07-21 23:26:05.487369 : Successful login: Alice
+2026-07-21 23:26:35.586603 : Successful login: Bob
+2026-07-21 23:27:04.303648 : Successful login: David
+2026-07-21 23:27:47.745160 : Successful login: Charlie
+2026-07-21 23:35:23.887641 : Logout: James (client closed connection)
+2026-07-21 23:35:24.956099 : Failed login: James (10.0.0.2)
+2026-07-21 23:36:24.340496 : Failed login: James (10.0.0.2)
+2026-07-21 23:36:25.739475 : Failed login: James (10.0.0.2)
+2026-07-21 23:36:27.413767 : Failed login: James (10.0.0.2)
+2026-07-21 23:36:29.070551 : Failed login: James (10.0.0.2)
+2026-07-21 23:37:54.278148 : Duplicate login attempt: Bob
+2026-07-21 23:41:30.087430 : Successful login: James
+2026-07-21 23:44:24.620961 : Successful login: Patir
+2026-07-21 23:47:08.971985 : Logout: James (client closed connection)
+2026-07-21 23:48:16.778695 : Failed login: James (10.0.0.2)
+2026-07-22 19:28:52.407043 : Successful login: James
+2026-07-22 19:29:27.795509 : Successful login: Patir
+2026-07-22 19:30:08.258812 : Logout: Patir (client closed connection)
+2026-07-22 19:30:09.702140 : Logout: James (client closed connection)

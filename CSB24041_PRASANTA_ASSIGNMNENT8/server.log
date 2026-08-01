@@ -1,0 +1,92 @@
+2026-07-21 22:24:00,703 [INFO] ====================================
+2026-07-21 22:24:00,704 [INFO]  Advanced Multi-Client Chat Server 
+2026-07-21 22:24:00,704 [INFO] ====================================
+2026-07-21 22:24:00,704 [INFO] Listening on 0.0.0.0:5000 (thread pool size=50)
+2026-07-21 22:24:59,591 [INFO] Graceful shutdown initiated...
+2026-07-21 22:24:59,592 [INFO] Server shut down cleanly.
+2026-07-21 22:26:03,457 [INFO] ====================================
+2026-07-21 22:26:03,459 [INFO]  Advanced Multi-Client Chat Server 
+2026-07-21 22:26:03,459 [INFO] ====================================
+2026-07-21 22:26:03,459 [INFO] Listening on 0.0.0.0:5000 (thread pool size=50)
+2026-07-21 23:08:50,040 [INFO] ====================================
+2026-07-21 23:08:50,041 [INFO]  Advanced Multi-Client Chat Server 
+2026-07-21 23:08:50,042 [INFO] ====================================
+2026-07-21 23:08:50,042 [INFO] Listening on 0.0.0.0:5000 (thread pool size=50)
+2026-07-21 23:18:36,580 [INFO] ====================================
+2026-07-21 23:18:36,581 [INFO]  Advanced Multi-Client Chat Server 
+2026-07-21 23:18:36,581 [INFO] ====================================
+2026-07-21 23:18:36,582 [INFO] Listening on 0.0.0.0:5000 (thread pool size=50)
+2026-07-21 23:18:58,868 [INFO] New client: James from 10.0.0.2:45282 at 2026-07-21 23:18:58
+2026-07-21 23:18:58,869 [INFO] clients=1 broadcast=0 private=0 delay=0.019ms throughput=0.00msg/s cpu=0.0% mem=22.9MB
+2026-07-21 23:19:26,586 [INFO] New client: Patir from 10.0.0.3:60120 at 2026-07-21 23:19:26
+2026-07-21 23:19:26,591 [INFO] clients=2 broadcast=0 private=0 delay=1.981ms throughput=0.00msg/s cpu=0.0% mem=22.9MB
+2026-07-21 23:20:46,706 [INFO] ====================================
+2026-07-21 23:20:46,706 [INFO]  Advanced Multi-Client Chat Server 
+2026-07-21 23:20:46,707 [INFO] ====================================
+2026-07-21 23:20:46,707 [INFO] Listening on 0.0.0.0:5000 (thread pool size=50)
+2026-07-21 23:21:14,168 [INFO] New client: James from 10.0.0.2:36348 at 2026-07-21 23:21:14
+2026-07-21 23:21:14,170 [INFO] clients=1 broadcast=0 private=0 delay=0.037ms throughput=0.00msg/s cpu=0.0% mem=22.7MB
+2026-07-21 23:21:43,423 [INFO] New client: Patir from 10.0.0.3:45356 at 2026-07-21 23:21:43
+2026-07-21 23:21:43,423 [INFO] clients=2 broadcast=0 private=0 delay=0.033ms throughput=0.00msg/s cpu=0.0% mem=22.8MB
+2026-07-21 23:24:34,154 [INFO] New client: Kuli from 10.0.0.4:58146 at 2026-07-21 23:24:34
+2026-07-21 23:24:34,159 [INFO] clients=3 broadcast=0 private=0 delay=0.544ms throughput=0.00msg/s cpu=0.0% mem=22.8MB
+2026-07-21 23:24:56,160 [INFO] New client: Rahul from 10.0.0.5:51878 at 2026-07-21 23:24:56
+2026-07-21 23:24:56,165 [INFO] clients=4 broadcast=0 private=0 delay=0.132ms throughput=0.00msg/s cpu=0.1% mem=22.9MB
+2026-07-21 23:25:29,216 [INFO] New client: Riya from 10.0.0.6:33700 at 2026-07-21 23:25:29
+2026-07-21 23:25:29,218 [INFO] clients=5 broadcast=0 private=0 delay=1.184ms throughput=0.00msg/s cpu=0.0% mem=22.9MB
+2026-07-21 23:26:05,487 [INFO] New client: Alice from 10.0.0.7:45082 at 2026-07-21 23:26:05
+2026-07-21 23:26:05,488 [INFO] clients=6 broadcast=0 private=0 delay=0.611ms throughput=0.00msg/s cpu=0.0% mem=22.9MB
+2026-07-21 23:26:35,587 [INFO] New client: Bob from 10.0.0.8:50586 at 2026-07-21 23:26:35
+2026-07-21 23:26:35,590 [INFO] clients=7 broadcast=0 private=0 delay=1.006ms throughput=0.00msg/s cpu=0.1% mem=23.0MB
+2026-07-21 23:27:04,304 [INFO] New client: David from 10.0.0.9:55952 at 2026-07-21 23:27:04
+2026-07-21 23:27:04,306 [INFO] clients=8 broadcast=0 private=0 delay=1.549ms throughput=0.00msg/s cpu=0.0% mem=23.0MB
+2026-07-21 23:27:47,746 [INFO] New client: Charlie from 10.0.0.10:37134 at 2026-07-21 23:27:47
+2026-07-21 23:27:47,747 [INFO] clients=9 broadcast=0 private=0 delay=0.588ms throughput=0.00msg/s cpu=0.0% mem=23.0MB
+2026-07-21 23:29:23,235 [INFO] James: hello everone
+2026-07-21 23:29:23,248 [INFO] clients=9 broadcast=1 private=0 delay=0.836ms throughput=0.00msg/s cpu=0.0% mem=23.1MB
+2026-07-21 23:29:34,968 [INFO] Patir: hi bro
+2026-07-21 23:29:34,969 [INFO] clients=9 broadcast=2 private=0 delay=0.314ms throughput=0.00msg/s cpu=0.1% mem=23.1MB
+2026-07-21 23:29:47,298 [INFO] Kuli: what i f
+2026-07-21 23:29:47,299 [INFO] clients=9 broadcast=3 private=0 delay=0.175ms throughput=0.01msg/s cpu=0.0% mem=23.1MB
+2026-07-21 23:29:58,138 [INFO] Rahul: good mrng
+2026-07-21 23:29:58,146 [INFO] clients=9 broadcast=4 private=0 delay=2.894ms throughput=0.01msg/s cpu=0.0% mem=23.2MB
+2026-07-21 23:30:08,053 [INFO] Riya: hii
+2026-07-21 23:30:08,058 [INFO] clients=9 broadcast=5 private=0 delay=2.293ms throughput=0.01msg/s cpu=0.2% mem=23.2MB
+2026-07-21 23:30:17,017 [INFO] Alice: hw r u
+2026-07-21 23:30:17,020 [INFO] clients=9 broadcast=6 private=0 delay=1.248ms throughput=0.01msg/s cpu=0.0% mem=23.2MB
+2026-07-21 23:30:25,418 [INFO] Bob: fine
+2026-07-21 23:30:25,422 [INFO] clients=9 broadcast=7 private=0 delay=0.660ms throughput=0.01msg/s cpu=0.1% mem=23.3MB
+2026-07-21 23:35:23,887 [INFO] Client cleanup: James (client closed connection)
+2026-07-21 23:35:23,893 [INFO] clients=8 broadcast=7 private=3 delay=5.437ms throughput=0.01msg/s cpu=0.0% mem=23.3MB
+2026-07-21 23:41:11,503 [INFO] ====================================
+2026-07-21 23:41:11,505 [INFO]  Advanced Multi-Client Chat Server 
+2026-07-21 23:41:11,505 [INFO] ====================================
+2026-07-21 23:41:11,505 [INFO] Listening on 0.0.0.0:5000 (thread pool size=50)
+2026-07-21 23:41:30,087 [INFO] New client: James from 10.0.0.2:50570 at 2026-07-21 23:41:30
+2026-07-21 23:41:30,098 [INFO] clients=1 broadcast=0 private=0 delay=0.017ms throughput=0.00msg/s cpu=0.0% mem=22.9MB
+2026-07-21 23:44:24,623 [INFO] New client: Patir from 10.0.0.3:33972 at 2026-07-21 23:44:24
+2026-07-21 23:44:24,624 [INFO] clients=2 broadcast=0 private=0 delay=0.184ms throughput=0.00msg/s cpu=0.0% mem=23.0MB
+2026-07-21 23:44:38,561 [INFO] Patir: hllw bro
+2026-07-21 23:44:38,566 [INFO] clients=2 broadcast=1 private=0 delay=0.410ms throughput=0.00msg/s cpu=0.0% mem=23.0MB
+2026-07-21 23:44:44,869 [INFO] James: hi bro
+2026-07-21 23:44:44,871 [INFO] clients=2 broadcast=2 private=0 delay=0.099ms throughput=0.01msg/s cpu=0.2% mem=23.1MB
+2026-07-21 23:47:08,971 [INFO] Client cleanup: James (client closed connection)
+2026-07-21 23:47:08,972 [INFO] clients=1 broadcast=2 private=1 delay=0.084ms throughput=0.01msg/s cpu=0.0% mem=23.1MB
+2026-07-22 19:28:33,935 [INFO] ====================================
+2026-07-22 19:28:33,936 [INFO]  Advanced Multi-Client Chat Server 
+2026-07-22 19:28:33,937 [INFO] ====================================
+2026-07-22 19:28:33,939 [INFO] Listening on 0.0.0.0:5000 (thread pool size=50)
+2026-07-22 19:28:52,410 [INFO] New client: James from 10.0.0.2:49302 at 2026-07-22 19:28:52
+2026-07-22 19:28:52,416 [INFO] clients=1 broadcast=0 private=0 delay=0.043ms throughput=0.00msg/s cpu=0.1% mem=22.9MB
+2026-07-22 19:29:02,342 [INFO] James: hi
+2026-07-22 19:29:02,357 [INFO] clients=1 broadcast=1 private=0 delay=0.014ms throughput=0.04msg/s cpu=0.1% mem=22.9MB
+2026-07-22 19:29:27,795 [INFO] New client: Patir from 10.0.0.3:46828 at 2026-07-22 19:29:27
+2026-07-22 19:29:27,800 [INFO] clients=2 broadcast=1 private=0 delay=0.046ms throughput=0.02msg/s cpu=0.0% mem=23.0MB
+2026-07-22 19:29:43,662 [INFO] James: hlw
+2026-07-22 19:29:43,664 [INFO] clients=2 broadcast=2 private=0 delay=0.063ms throughput=0.03msg/s cpu=0.0% mem=23.0MB
+2026-07-22 19:29:50,922 [INFO] Patir: hi
+2026-07-22 19:29:50,925 [INFO] clients=2 broadcast=3 private=0 delay=0.203ms throughput=0.04msg/s cpu=0.1% mem=23.0MB
+2026-07-22 19:30:08,255 [INFO] Client cleanup: Patir (client closed connection)
+2026-07-22 19:30:08,259 [INFO] clients=1 broadcast=3 private=0 delay=0.288ms throughput=0.03msg/s cpu=0.0% mem=23.0MB
+2026-07-22 19:30:09,700 [INFO] Client cleanup: James (client closed connection)
+2026-07-22 19:30:09,705 [INFO] clients=0 broadcast=3 private=0 delay=0.008ms throughput=0.03msg/s cpu=0.0% mem=23.0MB
