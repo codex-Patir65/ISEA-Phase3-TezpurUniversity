@@ -1,0 +1,15 @@
+Timestamp,Sender,Receiver,Message Type,Message
+2026-07-17 02:20:14,Patir,All,Broadcast,hey everbody hw r u
+2026-07-17 02:20:25,Riya,All,Broadcast,hw abt u
+2026-07-17 02:20:41,Kuli,All,Broadcast,jst enjoying vaction
+2026-07-17 02:21:08,James,All,Broadcast,what abuout u riya
+2026-07-17 02:21:31,Riya,All,Broadcast,jst fine wht abot u
+2026-07-17 02:23:12,Riya,James,Private, hey  hw r u
+2026-07-17 02:23:36,James,Riya,Private,fin hw abt u
+2026-07-17 02:23:54,Riya,All,Broadcast,jst thinking abt u
+2026-07-17 02:24:36,Riya,James,Private,jst thinking abt u
+2026-07-17 02:24:44,James,All,Broadcast,oky
+2026-07-17 02:39:41,James,All,Broadcast,hi
+2026-07-17 02:39:45,Patir,All,Broadcast,hlw
+2026-08-01 19:16:34,James,All,Broadcast,hllw
+2026-08-01 19:17:01,Patir,James,Private,hlw
